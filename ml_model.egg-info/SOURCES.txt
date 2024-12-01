@@ -1,0 +1,12 @@
+README.md
+setup.py
+ml_model.egg-info/PKG-INFO
+ml_model.egg-info/SOURCES.txt
+ml_model.egg-info/dependency_links.txt
+ml_model.egg-info/top_level.txt
+model/__init__.py
+model/deploy.py
+model/predict.py
+model/train.py
+tests/__init__.py
+tests/test_model.py
